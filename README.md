@@ -1,9 +1,10 @@
+# Open Master Branch on Github
+
 # Real Time Chat App
 
 Real Time Chat App is a Full Stack Chatting App.
 Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
 
-# open master branch in github
 
 
 ## Tech Stack
