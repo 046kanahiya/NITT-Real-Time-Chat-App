@@ -34,3 +34,10 @@ Start the Client
   cd frontend/
   npm start
 ```
+
+## Project Demonstration Video
+
+Watch the [NITT Connect](https://github.com/046kanahiya/NITT-Real-Time-Chat-App/blob/master/NITT%20Connect.mp4) to see the key features in action:
+- **Login/Sign Up**
+- **Real-Time Notifications**
+- **Custom Group Chat**
